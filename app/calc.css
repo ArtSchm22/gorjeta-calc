@@ -46,7 +46,7 @@ form input[type="text"] {
 #total-conta {
     font-size: 14px;
     background-color: #f7f7f7;
-    width: 60%;
+    width: 70.5%;
     padding: 5px 5px 8px 8px;
     border: solid 2px;
     border-radius: 8px;
@@ -60,13 +60,13 @@ form input[type="text"] {
 #taxa-servico {
     padding: 5px 5px 8px 8px;
     font-size: 14px;
-    width: 70%;
+    width: 79%;
     border: solid 2px;
     border-radius: 8px;
 }
 
 #numero-pessoas {
-    width: 58%;
+    width: 67%;
     padding: 5px 5px 8px 8px;
     margin-left: 20px;
     background-color: #f7f7f7;
@@ -79,7 +79,9 @@ button {
     text-transform: uppercase;
     font-weight: bold;
     display: block;
-    margin: 30px auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10%;
     background: #6a6b6b;
     border-radius: 5px;
     width: 200px;
